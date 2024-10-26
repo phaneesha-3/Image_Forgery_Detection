@@ -28,7 +28,8 @@ It is easy for fake photos to expand on social media, undermining public confide
 
 The primary objective of this study is to design and implement a Convolutional Neural Network (CNN)--based Image Forgery Detection System. Because CNNs, a subset of Deep Learning algorithms, can automatically extract hierarchical features from unprocessed image data, they are a good fit for image analysis tasks.
 
-image
+
+![363936103-ef033c2f-a9db-4359-b139-ea31dfaa8585](https://github.com/user-attachments/assets/09fa94fb-bd5a-420b-b8a2-8bbfec846e1e)
 
 The proposed system aims to develop a robust and efficient image forgery detection application that utilizes deep learning techniques to determine the authenticity of an image. The system will analyze the input image and provide a percentage indicating the likelihood of the image being real or fake. This project involves both frontend and backend development to create a user-friendly web application for end-users.
 
@@ -45,4 +46,5 @@ Convolutional Neural Networks (CNN) have significant advantages when used for im
 By utilizing their robustness to changes, interpretability, scalability and ability to train discriminative features directly from images, CNN offers a potent foundation for image fraud detection. CNN are a viable method for creating dependable and efficient forgery detection systems in real-world applications because of these benefits.
 
 DATASETS This project leverages the CASIA 2.0 Image Tampering Detection Dataset to develop a state-of-the-art image tampering detection system. By employing deep learning techniques and a robust preprocessing pipeline, the project aims to enhance the accuracy and reliability of tampering detection, contributing to the broader goal of maintaining image integrity in the digital era. The CASIA 2.0 Image Tampering Detection Dataset is a comprehensive collection of images curated to study image tampering and manipulation. It includes both authentic and tampered images, with various types of tampering such as splicing, copy-move and removal. The dataset is well-suited for training and evaluating models designed to detect tampering in images. The CASIA 2.0 Image Tampering Detection Dataset offers a multitude of advantages that make it an essential resource for the development and evaluation of image tampering detection systems. Its diversity, high resolution, comprehensive annotations and real-world relevance ensure that models trained on this dataset are robust, accurate and applicable in practical scenarios. By using CASIA 2.0, researchers and developers can advance the field of image forensics, contributing to the broader goal of maintaining the integrity and authenticity of digital images
+![image](https://github.com/user-attachments/assets/74eb8f38-75dd-4eb1-b333-337a84755e4f)
 
